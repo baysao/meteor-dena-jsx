@@ -15,4 +15,4 @@ standard-minifiers      # JS/CSS minifiers run for production mode
 es5-shim                # ECMAScript 5 compatibility for older browsers.
 ecmascript              # Enable ECMAScript2015+ syntax in app code
 
-baysao:dena-jsx
+baysao:dena-jsx@0.1.0-2
