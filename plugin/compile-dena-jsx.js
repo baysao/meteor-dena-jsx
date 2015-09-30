@@ -18,6 +18,8 @@ JSXXCompiler.prototype.processFilesForTarget = function (files) {
 					    });
 					}
 				});
+			} else {
+				console.log(error);
 			}
 	});
   });
